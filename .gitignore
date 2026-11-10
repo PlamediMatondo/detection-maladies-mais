@@ -1,7 +1,7 @@
+DataSets/
+Datasets/
 Dataset_Organized/
 Corrupted_Images/
-*.keras
-*.h5
 __pycache__/
 .ipynb_checkpoints/
 .env
